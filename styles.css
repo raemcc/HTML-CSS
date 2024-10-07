@@ -32,3 +32,10 @@ h2{
     color: black;
     font-style: normal;
 }
+
+.special{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: left;
+}
