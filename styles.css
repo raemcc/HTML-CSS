@@ -16,3 +16,17 @@ h1,h2,h3,h4,h5,h6 {
     font-style: italic;
     text-align: right;
 }
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150px;
+    color: black;
+    font-style: normal;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    color: black;
+    font-style: normal;
+}
