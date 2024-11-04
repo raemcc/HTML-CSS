@@ -81,15 +81,26 @@ a {
 }
 
 .section-one {
-    border: 1px solid brown;
     background-color: plum;
 }
 
 .caption {
 font-size: 15px;
 font-style: italic;
+text-align: center;
 }
 
 .container {
     display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.cake-item {
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+}
+.cake-group {
+    width: 275px;
 }
