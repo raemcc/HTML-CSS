@@ -65,5 +65,17 @@ li {
 }
 
 a {
-    color:chartreuse
+    color:brown
+}
+
+
+/*cake page*/
+
+.cake-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: brown;
+    font-size: 25px;
+    font-weight: bold;
+
 }
